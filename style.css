@@ -1,5 +1,7 @@
 .my_div{
     background-color: rgb(107, 102, 102);
+    height: 400px;
+    width: 500px;
     color: bisque;
 
 }
