@@ -1,4 +1,6 @@
 .my_div{
+    height: 400px;
+    width: 500px;
     background-color: black;
     color: bisque;
 }
